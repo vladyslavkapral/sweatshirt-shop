@@ -1,0 +1,62 @@
+[
+    {
+        "id": "el1",
+        "name": "Cotton Fleece Utility Sweatshirt",
+        "img": "img/catalog/01.webp",
+        "price": 15.699
+    },
+    {
+        "id": "el2",
+        "name": "Cotton Fleece Resist Dyed Sweatshirt",
+        "img": "img/catalog/02.webp",
+        "price": 11.854
+    },
+    {
+        "id": "el3",
+        "name": "Diagonal Raised Fleece Utility Sweatshirt",
+        "img": "img/catalog/03.webp",
+        "price": 12.816
+    },
+    {
+        "id": "el4",
+        "name": "Diagonal Raised Fleece Logo Sweatshirt",
+        "img": "img/catalog/04.webp",
+        "price": 18.806
+    },
+    {
+        "id": "el5",
+        "name": "Cotton Fleece Resist Dyed Sweatshirt",
+        "img": "img/catalog/05.webp",
+        "price": 15.699
+    },
+    {
+        "id": "el6",
+        "name": "Cotton Fleece Flight Graphic Sweatshirt",
+        "img": "img/catalog/06.webp",
+        "price": 16.555
+    },
+    {
+        "id": "el7",
+        "name": "Diagonal Raised Fleece Utility Sweatshirt",
+        "img": "img/catalog/07.webp",
+        "price": 13.100
+    },
+    {
+        "id": "el8",
+        "name": "Diagonal Raised Fleece Utility Sweatshirt",
+        "img": "img/catalog/08.webp",
+        "price": 12.816
+    },
+    {
+        "id": "el9",
+        "name": "Diagonal Raised Fleece Split Goggle Hoodie",
+        "img": "img/catalog/09.webp",
+        "price": 19.758
+    },
+    {
+        "id": "el10",
+        "name": "Diagonal Raised Fleece Logo Sweatshirt",
+        "img": "img/catalog/10.webp",
+        "price": 12.816
+    }
+]
